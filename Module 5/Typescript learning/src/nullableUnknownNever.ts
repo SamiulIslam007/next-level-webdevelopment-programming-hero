@@ -29,7 +29,8 @@ const discountCalculator = (input: unknown) => {
 // discountCalculator("5000 TK");
 // discountCalculator(null);
 
-// void
+// void - kono kisu return korbe na
+// never - kono kisu return korbe na, ar function ta shesh hobe na
 
 const error = (msg: string): never => {
   throw new Error(msg);
