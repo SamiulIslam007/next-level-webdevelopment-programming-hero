@@ -37,5 +37,5 @@ const poorUser = {
 poorUser.addBalance(1000);
 const arr = [1, 2, 3, 4, 5];
 const sqrArray = arr.map((elem) => elem * elem);
-console.log(sqrArray);
+// console.log(sqrArray);
 //# sourceMappingURL=function.js.map
