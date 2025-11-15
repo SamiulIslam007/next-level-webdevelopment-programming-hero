@@ -19,3 +19,5 @@ let couple: [string, string] = ["Husband", "Wife"];
 let samiulNameAndRoll: [string, number] = ["samiul", 21];
 
 let destination: [string, string, number] = ["Dhaka", "Chattogram", 3];
+
+// Tuple with array
